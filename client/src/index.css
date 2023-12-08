@@ -1,0 +1,48 @@
+body {
+  margin-top: 1rem;
+  display: flex;
+  height: 100rem;
+  justify-content: center;
+  background: linear-gradient(198deg, #F1EAFF 24.41%, #CFA8FF 74.53%);
+  overflow-y: hidden;
+}
+
+button {
+  border-radius: 30px;
+background: #7753DD;
+color: white;
+  height: 3rem;
+  width: 6rem;
+  border: none;
+  justify-content: left;
+}
+
+
+
+
+h1 {
+width: 270px;
+height: 90px;
+color: #000;
+font-family: Arima Madurai;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 4rem;
+}
+
+h2 {
+width: 50rem;
+height: 51px;
+color: #000;
+font-family: Arima Madurai;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 9rem;
+text-align: center;
+position: fixed;
+
+}

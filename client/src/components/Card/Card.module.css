@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    width: 700px;
+    min-height: 550px;
+    border-radius: 50px;
+    background: #FFF;
+    align-items: center;
+    margin-top: 90px;
+    flex-direction: column;
+
+}
+
+
+
+.input {
+    width: 400px;
+    height: 42px;
+    border-radius: 15px;
+    background: #D9D9D9;
+    border: none;
+    margin-right: 20px;
+}
+
+
+.remover {
+    display: flex;
+    flex-direction: row;
+}
+
+.remover button {
+    background: red;
+    height: 2rem;
+    width: 4.5rem;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.text {
+    background: #D9D9D9;
+    color: black;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
